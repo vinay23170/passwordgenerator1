@@ -11,6 +11,7 @@ class Main
     {
         // Length of your password as I have choose
         // here to be 8
+        system.out.print("hello world")
         int length = 10;
         System.out.println(geek_Password(length));
     }
